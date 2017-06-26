@@ -5,6 +5,7 @@ Tkinter is used to provide a canvas for a user to draw on, this is then saved on
 
 Information on the Minst images and all the records for various methods can be found here: [http://yann.lecun.com/exdb/mnist/](http://yann.lecun.com/exdb/mnist/)
 
+---
 
 # Cifar10Converter Notebook
 The Cifar10 Dataset is a collection of 50,000 train + 10,000 test images from 10 classes, ranging from cats to aeroplanes. more info can be found at [https://www.cs.toronto.edu/~kriz/cifar.html](https://www.cs.toronto.edu/~kriz/cifar.html).
